@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ferramentacaraiti.github.io/ferramenta-cariati/sitemap.xml
