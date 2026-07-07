@@ -271,6 +271,13 @@ h1 {
   color: var(--white);
 }
 
+.whatsapp-button:hover,
+.whatsapp-button:focus-visible,
+.whatsapp-button:active {
+  background: #25d366;
+  color: var(--white);
+}
+
 .contact-card {
   display: grid;
   grid-template-columns: minmax(128px, 170px) minmax(0, 1fr);
@@ -361,6 +368,16 @@ dd {
 .info-link:focus-visible {
   border-color: var(--blue);
   color: var(--blue);
+}
+
+.instagram-link {
+  margin-top: 2px;
+}
+
+.instagram-link:hover,
+.instagram-link:focus-visible {
+  border-color: #c13584;
+  color: #c13584;
 }
 
 .section {
